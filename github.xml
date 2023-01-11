@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="sangsung-lee" id="808848b1-6863-4298-aee7-e40cec9ea4c7">
+      <server useHttp="false" host="goldmine.ddc.io" />
+    </account>
+  </component>
+</application>

@@ -1,0 +1,52 @@
+<templateSet group="Custom">
+  <template name="proda" value="import lombok.Getter;&#10;import lombok.Setter;&#10;import lombok.Builder;&#10;import lombok.NoArgsConstructor;&#10;import lombok.AllArgsConstructor;&#10;&#10;@Getter&#10;@Setter&#10;@Builder&#10;@NoArgsConstructor&#10;@AllArgsConstructor" description="product anotation" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sue" value="StringUtils.equals()" description="String Util Equals" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="isue" value="if(StringUtils.equals())" description="If String Utils Equals" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ond" value="ORDER BY nkey DESC" description="ORDER BY nkey DESC" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+  <template name="l10" value="LIMIT 10" description="LIMIT 10" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+  <template name="l30" value="LIMIT 30" description="LIMIT 30" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+  <template name="l100" value="LIMIT 100" description="LIMIT 100" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+  <template name="devuid" value="ud-us9lRraU-C8-BNWjWIiCdI" description="dev uid" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+  <template name="qauid" value="ud-uteEsKkU-Hl-BNXWflPEHU" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+  <template name="produid" value="ud-uwW1ivMk-LF-BNcA2YEInR" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+</templateSet>
